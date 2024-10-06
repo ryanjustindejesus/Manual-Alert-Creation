@@ -1,13 +1,12 @@
 <h1>Manual Alert Creation</h1>
-<b>This tutorial outlines the configuration </b>
+<b>This tutorial outlines the configuration of brute force attempts alerts for our windows-vm</b>
 
 <h2>Environments and Technologies Used</h2>
 
 - <b>Microsoft Azure</b> 
-- <b>Description</b>
-- <b>Description</b>
-- <b>Description</b>
-- <b>Description</b>
+- <b>Microsoft Sentinel</b>
+- <b>Virtual Machine</b>
+- <b>Log Analytics Workspace</b>
 
 <h2>Operating Systems</h2>
 
