@@ -1,5 +1,5 @@
 <h1>Manual Alert Creation</h1>
-<b>This tutorial outlines the configuration of brute force attempts alerts for our windows-vm</b>
+- <b>This tutorial outlines the configuration of brute force attempts alerts for our windows-vm</b>
 
 <h2>Environments and Technologies Used</h2>
 
